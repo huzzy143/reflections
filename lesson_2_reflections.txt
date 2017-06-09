@@ -5,3 +5,5 @@ It should make the current directory files as tracked.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Working directory contains all file and .....
+
+This is just a sample
