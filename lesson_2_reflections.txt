@@ -7,3 +7,5 @@ How is the staging area different from the working directory and the repository?
 Working directory contains all file and .....
 
 This is just a sample
+
+Hello again a change
